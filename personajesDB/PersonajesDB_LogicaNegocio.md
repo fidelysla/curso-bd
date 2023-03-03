@@ -64,14 +64,15 @@
 1. Un **personaje** puede _tener_ muchos **idiomas** (_1 a M_).
 1. Un **personaje** _tiene_ un **origen** (_1 a 1_).
 1. Un **personaje** _pertenece_ a una **especie** (_1 a 1_).
-1. Un **universo** _tiene_ muchos **planetas** (_1 a M_)
 1. Un **personaje** _tiene_ un **nivel_poder** (_1 a 1_).
+1. Un **personaje** _tiene_ una **ocupacion** (_1 a 1_).
 
 ## **Diagrama**
 
 ### Modelo Relacional de la BD
 
-![Prueba](https://2.bp.blogspot.com/-C2I6PRxnxlo/TjW5D7fJY9I/AAAAAAAAADQ/_0mH9CaDfTQ/s1600/modelo%255B3%255D.jpg)
+![Prueba](/personajesDB/PersonajesModeloRelacionalDB.jpg)
+_Modelo Relacional sujeto a errores_
 
 ## **Reglas de Negocio**
 
